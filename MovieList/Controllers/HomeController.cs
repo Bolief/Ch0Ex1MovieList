@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MovieList.Models;
+//using MovieList.Models,
 using System.Diagnostics;
 
 namespace MovieList.Controllers
